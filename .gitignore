@@ -1,7 +1,11 @@
+#Compiled output
+dist
+
 # Logs
 logs
 *.log
 npm-debug.log*
+yarn-error.log
 
 # Runtime data
 pids
