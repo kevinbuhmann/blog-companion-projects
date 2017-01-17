@@ -1,0 +1,7 @@
+{
+  "name": "using-angular-dependency-injection-in-node",
+  "tasks": {
+    "lint": "yarn run lint",
+    "build": "yarn run build"
+  }
+}

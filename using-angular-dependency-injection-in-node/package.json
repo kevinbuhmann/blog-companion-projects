@@ -1,0 +1,23 @@
+{
+  "name": "using-angular-dependency-injection-in-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "tsc --project tsconfig.json",
+    "lint": "tslint --config ../yarn tslint.json \"src/**/*.ts\""
+  },
+  "author": "Kevin Phelps",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@angular/core": "2.4.3",
+    "reflect-metadata": "0.1.9",
+    "rxjs": "5.0.3"
+  },
+  "devDependencies": {
+    "tslint": "4.3.1",
+    "typescript": "2.1.5"
+  }
+}

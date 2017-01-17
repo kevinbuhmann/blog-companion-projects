@@ -1,0 +1,16 @@
+{
+  "name": "blog-companion-projects",
+  "version": "1.0.0",
+  "description": "Companion code samples for articles on [kevinphelps.me](https://kevinphelps.me)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinphelps/blog-companion-projects.git"
+  },
+  "author": "Kevin Phelps",
+  "license": "MIT",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/kevinphelps/blog-companion-projects/issues"
+  },
+  "homepage": "https://github.com/kevinphelps/blog-companion-projects#readme"
+}
